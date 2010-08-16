@@ -1,0 +1,7 @@
+ABOUT
+=====
+
+Here is my bucket of code snippets that may be useful 
+
+bwa/bwa_read_group.pl:
+     This is a wrapper for BWA aligner that applies (very) simple read group header/tag information.
